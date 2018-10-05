@@ -11,18 +11,18 @@ body {
 .keys {
 	position: relative;
 	text-align: center;	
-    top: 50%;
-    transform: translateY(-50%);	
+	top: 50%;
+	transform: translateY(-50%);	
 }
 
 .key {
-    background-color: #000;
-    border: 1px solid #fff;
-    color: #fff;    
-    display: inline-block;
-    font-size: 24px;    
-    margin-right: 20px;
-    padding: 25px;
+	background-color: #000;
+	border: 1px solid #fff;
+	color: #fff;    
+	display: inline-block;
+	font-size: 24px;    
+	margin-right: 20px;
+	padding: 25px;
 }
 
 .key:hover {
